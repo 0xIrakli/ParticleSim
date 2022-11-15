@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\cee4218b35291513608430978e420d30\raylib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\cee4218b35291513608430978e420d30\raylib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\cee4218b35291513608430978e420d30\raylib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\cee4218b35291513608430978e420d30\raylib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\cee4218b35291513608430978e420d30\raylib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\cee4218b35291513608430978e420d30\raylib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\cee4218b35291513608430978e420d30\raylib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\cee4218b35291513608430978e420d30\raylib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\1767d112774b8e4907b95c23cfe9cec7\raylib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\050b639e1a07e34ab4f103014d0478a2\raylib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\raylib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{56CECCEA-D720-351D-91B6-44DECDB61693}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

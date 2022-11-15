@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src/CMakeLists.txt
+C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src/CMakeOptions.txt
+C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src/cmake/AddIfFlagCompiles.cmake
+C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src/cmake/BuildOptions.cmake
+C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src/cmake/CompilerFlags.cmake
+C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src/cmake/EnumOption.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeDependentOption.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CheckCCompilerFlag.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Internal/CheckCompilerFlag.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Internal/CheckFlagCommonConfig.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake
