@@ -9,12 +9,11 @@ Feel free to play around with the variables inside the code.
 "particleCount", "WIDTH" and "HEIGHT" are pretty important.
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/0.png?raw=true]" alt="drawing" style="width:200px;"/>
-
-![Screenshot 2](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/3.png?raw=true])
-![Screenshot 3](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/6.png?raw=true])
-![Screenshot 4](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/4.png?raw=true])
-![Screenshot 5](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/5.png?raw=true])
-![Screenshot 6](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/2.png?raw=true])
-![Screenshot 7](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/7.png?raw=true])
-![Screenshot 8](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/8.png?raw=true])
+<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/0.png?raw=true]" alt="screenshot1" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/3.png?raw=true]" alt="screenshot2" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/6.png?raw=true]" alt="screenshot3" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/4.png?raw=true]" alt="screenshot4" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/5.png?raw=true]" alt="screenshot5" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/2.png?raw=true]" alt="screenshot6" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/7.png?raw=true]" alt="screenshot7" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/8.png?raw=true]" alt="screenshot8" style="width:500px;"/>
