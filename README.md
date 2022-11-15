@@ -9,7 +9,7 @@ Feel free to play around with the variables inside the code.
 "particleCount", "WIDTH" and "HEIGHT" are pretty important.
 
 # Screenshots
-![Screenshot 1](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/0.png])
+![Screenshot 1](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/0.png?raw=true])
 ![Screenshot 2](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/2.png])
 ![Screenshot 3](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/4.png])
 ![Screenshot 4](https://raw.githubusercontent.com/0xIrakli/ParticleSim/master/build/Release/6.png])
