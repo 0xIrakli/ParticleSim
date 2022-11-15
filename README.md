@@ -8,7 +8,7 @@ Just launch the exe in the build/Release/ folder and drag your mouse in the wind
 Feel free to play around with the variables inside the code.
 "particleCount", "WIDTH" and "HEIGHT" are pretty important.
 
-#Screenshots
+# Screenshots
 [!https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/0.png]
 [!https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/2.png]
 [!https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/4.png]
