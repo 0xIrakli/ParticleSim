@@ -1,5 +1,5 @@
 # ParticleSim
-Particle simulation in c++ using raylib. **scroll for screenshots**
+Particle simulation in c++ using raylib. *scroll for screenshots*
 
 ## Usage
 Just launch the exe in the build/Release/ folder and drag your mouse in the window to attract the particles. Press "A" on keyboard to screenshot.
