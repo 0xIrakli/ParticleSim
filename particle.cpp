@@ -29,8 +29,8 @@ void Particle::ApplyGravityForce(Vector2 pos, int mass) {
     float xdist = this->pos.x-pos.x;
     float ydist = this->pos.y-pos.y;
     float dist = Distance(xdist, ydist)/5;
-    float f = min(-(float)((mass*m)/pow(dist, 2)), 2.0f);
-    Vector2 force = {(float)(f*(xdist/dist)), (float)(f*(ydist/dist))};
+    float f = min(-((mass*m)/pow(dist, 2)), 2.0);
+    Vector2 force = {f*(xdist/dist), f*(ydist/dist)};
     
     acc.x += force.x/m;
     acc.y += force.y/m;
@@ -50,5 +50,5 @@ void Particle::Update() {
 }
 
 void Particle::Draw() {
-    DrawPixelV(pos, {255, 255, 255, 255});
+    DrawPixelV(pos, {255, 255, 255, 200});
 }
