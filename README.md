@@ -9,8 +9,8 @@ Feel free to play around with the variables inside the code.
 "particleCount", "WIDTH" and "HEIGHT" are pretty important.
 
 # Screenshots
-![Screenshot 1]https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/0.png]
-![Screenshot 2]https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/2.png]
-![Screenshot 3]https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/4.png]
-![Screenshot 4]https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/6.png]
-![Screenshot 5]https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/7.png]
+![Screenshot 1](https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/0.png])
+![Screenshot 2](https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/2.png])
+![Screenshot 3](https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/4.png])
+![Screenshot 4](https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/6.png])
+![Screenshot 5](https://github.com/0xIrakli/ParticleSim/blob/master/build/Release/7.png])
