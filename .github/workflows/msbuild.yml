@@ -38,4 +38,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: build-artifact
-        path: build/Release/particlesim.exe
+        path: D:/build/Release/particlesim.exe
