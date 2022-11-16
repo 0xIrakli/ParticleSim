@@ -21,4 +21,6 @@ jobs:
     - uses: actions/checkout@v3
     - name: Build
       # Build your program with the given configuration
-      run: cmake --build /build --config Release --target ALL_BUILD -j 14
+      run:
+        mkdir /build
+        cmake --build /build --config Release --target ALL_BUILD -j 14
