@@ -36,7 +36,7 @@ int main(int, char**) {
                     particleArray[i].ApplyGravityForce({(float)GetMouseX(), (float)GetMouseY()}, 1000, -0.5);
                 }
                 if (IsKeyDown(KEY_SPACE)) {
-                    particleArray[i].ApplyGravityForce(particleArray[i].original, 2000, 1);
+                    particleArray[i].ApplyGravityForce(particleArray[i].original, 4000, 1);
                 }
                 particleArray[i].Update();
                 particleArray[i].Draw();
