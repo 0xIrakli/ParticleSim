@@ -6,7 +6,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 set (CMAKE_CXX_STANDARD 11)
 
 # Dependencies
-find_package(raylib 4.2.0 QUIET) # QUIET or REQUIRED
+find_package(raylib 4.2.0 REQUIRED) # QUIET or REQUIRED
 if (NOT raylib_FOUND) # If there's none, fetch and build raylib
   include(FetchContent)
   FetchContent_Declare(
