@@ -51,5 +51,5 @@ void Particle::Update() {
 }
 
 void Particle::Draw() {
-    DrawPixelV(pos, {255, 255, 255, 200});
+    DrawPixelV(pos, {255, 255, 255, 225});
 }
