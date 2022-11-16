@@ -45,6 +45,10 @@ int main(int, char**) {
                 TakeScreenshot((to_string(L)+".png").c_str());
                 L++;
             }
+            if (IsKeyDown(KEY_E)) {
+                TakeScreenshot(("recording/"+to_string(L)+".png").c_str());
+                L++;
+            }
         
         EndDrawing();
     }
