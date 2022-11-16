@@ -35,7 +35,7 @@ jobs:
       run: cmake --build $GITHUB_ACTION_PATH/build --config Release --target ALL_BUILD -j 14
 
     - name: Upload Artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
-        name: build
-        path: build/Release/particlesim.exe
+        name: build-artifact
+        path: build/Release/
