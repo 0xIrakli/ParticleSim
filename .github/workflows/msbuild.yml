@@ -24,6 +24,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    
+    - name: Create build dir
+      run: mkdir build
 
     - name: Configure Cmake
       run: cmake --no-warn-unused-cli -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -B $GITHUB_ACTION_PATH/build
