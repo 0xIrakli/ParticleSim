@@ -27,5 +27,3 @@ endif()
 add_executable(particlesim main.cpp particle.cpp particle.h)
 #set(raylib_VERBOSE 1)
 target_link_libraries(particlesim raylib)
-
-endif()
