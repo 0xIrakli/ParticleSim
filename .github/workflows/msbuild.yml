@@ -38,4 +38,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: build-artifact
-        path: ParticleSim/build/Release/
+        path: $GITHUB_ACTION_PATH/build/Release/
