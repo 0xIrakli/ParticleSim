@@ -12,7 +12,7 @@ Feel free to play around with the variables inside the code.
 "particleCount", "WIDTH" and "HEIGHT" are pretty important.
 
 ## Video
-![Video](https://github.com/0xIrakli/ParticleSim/blob/master/screenshots/test.mp4)
+https://user-images.githubusercontent.com/79720793/202299091-83e42ffb-57cd-45b6-8a78-d36455758852.mp4
 
 ## Screenshots
 <img src="https://github.com/0xIrakli/ParticleSim/blob/master/screenshots/0.png?raw=true]" alt="screenshot1" style="width:800px;"/>
