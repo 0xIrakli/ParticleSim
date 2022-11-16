@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\User\Desktop\Particle Sim\build\_deps\raylib-subbuild\CMakeFiles\050b639e1a07e34ab4f103014d0478a2\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\User\Desktop\ParticleSim\build\_deps\raylib-subbuild\CMakeFiles\267ef29f94eaed97ece0298dd58b165b\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{56CECCEA-D720-351D-91B6-44DECDB61693}</UniqueIdentifier>
+      <UniqueIdentifier>{95C5D59F-543A-3788-BB88-A620FC92A9CF}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

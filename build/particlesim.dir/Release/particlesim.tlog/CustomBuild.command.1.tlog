@@ -1,6 +1,6 @@
-^C:\USERS\USER\DESKTOP\PARTICLE SIM\CMAKELISTS.TXT
+^C:\USERS\USER\DESKTOP\ParticleSim\CMAKELISTS.TXT
 setlocal
-D:\Programs\Cmake\bin\cmake.exe "-SC:/Users/User/Desktop/Particle Sim" "-BC:/Users/User/Desktop/Particle Sim/build" --check-stamp-file "C:/Users/User/Desktop/Particle Sim/build/CMakeFiles/generate.stamp"
+D:\Programs\Cmake\bin\cmake.exe "-SC:/Users/User/Desktop/ParticleSim" "-BC:/Users/User/Desktop/ParticleSim/build" --check-stamp-file "C:/Users/User/Desktop/ParticleSim/build/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

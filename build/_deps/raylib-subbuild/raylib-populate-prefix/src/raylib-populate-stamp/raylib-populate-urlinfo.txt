@@ -3,9 +3,9 @@
 # No other meaning or use of this file is supported.
 
 method=url
-command=D:/Programs/Cmake/bin/cmake.exe;-P;C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/download-raylib-populate.cmake;COMMAND;D:/Programs/Cmake/bin/cmake.exe;-P;C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/verify-raylib-populate.cmake;COMMAND;D:/Programs/Cmake/bin/cmake.exe;-P;C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/extract-raylib-populate.cmake
-source_dir=C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src
-work_dir=C:/Users/User/Desktop/Particle Sim/build/_deps
+command=D:/Programs/Cmake/bin/cmake.exe;-P;C:/Users/User/Desktop/ParticleSim/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/download-raylib-populate.cmake;COMMAND;D:/Programs/Cmake/bin/cmake.exe;-P;C:/Users/User/Desktop/ParticleSim/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/verify-raylib-populate.cmake;COMMAND;D:/Programs/Cmake/bin/cmake.exe;-P;C:/Users/User/Desktop/ParticleSim/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/extract-raylib-populate.cmake
+source_dir=C:/Users/User/Desktop/ParticleSim/build/_deps/raylib-src
+work_dir=C:/Users/User/Desktop/ParticleSim/build/_deps
 url(s)=https://github.com/raysan5/raylib/archive/refs/tags/4.0.0.tar.gz
 hash=
 no_extract=

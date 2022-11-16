@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: C:/Users/User/Desktop/Particle Sim
-BuildDirectory: C:/Users/User/Desktop/Particle Sim/build
+SourceDirectory: C:/Users/User/Desktop/ParticleSim
+BuildDirectory: C:/Users/User/Desktop/ParticleSim/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "D:/Programs/Cmake/bin/cmake.exe" "C:/Users/User/Desktop/Particle Sim"
+ConfigureCommand: "D:/Programs/Cmake/bin/cmake.exe" "C:/Users/User/Desktop/ParticleSim"
 MakeCommand: D:\Programs\Cmake\bin\cmake.exe --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 

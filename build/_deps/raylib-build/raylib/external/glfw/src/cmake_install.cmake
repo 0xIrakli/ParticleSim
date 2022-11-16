@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src/src/external/glfw/src
+# Install script for directory: C:/Users/User/Desktop/ParticleSim/build/_deps/raylib-src/src/external/glfw/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -14,8 +14,8 @@ project(raylib-populate NONE)
 include(ExternalProject)
 ExternalProject_Add(raylib-populate
                      "UPDATE_DISCONNECTED" "False" "DOWNLOAD_EXTRACT_TIMESTAMP" "TRUE" "URL" "https://github.com/raysan5/raylib/archive/refs/tags/4.0.0.tar.gz"
-                    SOURCE_DIR          "C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-src"
-                    BINARY_DIR          "C:/Users/User/Desktop/Particle Sim/build/_deps/raylib-build"
+                    SOURCE_DIR          "C:/Users/User/Desktop/ParticleSim/build/_deps/raylib-src"
+                    BINARY_DIR          "C:/Users/User/Desktop/ParticleSim/build/_deps/raylib-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""
