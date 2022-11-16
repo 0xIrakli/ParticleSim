@@ -11,7 +11,7 @@ Just launch the exe in the build/Release/ folder and drag your left mouse button
 Feel free to play around with the variables inside the code.
 "particleCount", "WIDTH" and "HEIGHT" are pretty important.
 
-##Video
+## Video
 ![Video](https://github.com/0xIrakli/ParticleSim/blob/master/screenshots/test.mp4?raw=true)
 
 ## Screenshots
