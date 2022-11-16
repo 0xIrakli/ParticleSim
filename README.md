@@ -2,7 +2,7 @@
 Particle simulation in c++ using raylib. ***↓↓screenshots↓↓***
 
 ## Download
-Go to Actions tab in github click on the latest action and download the build-artifacts, Extract and enjoy!
+Go to Actions tab. Click on the latest action and download the build-artifacts, Extract and enjoy!
 
 ## Usage
 Just launch the exe in the build/Release/ folder and drag your left mouse button in the window to attract the particles and right to repulse them. Press Space on keyboard to apply a force to each particle pointed to its origina position (just try its really cool). Press "A" on keyboard to take a screenshot.
