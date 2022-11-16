@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int WIDTH = 1000;
-int HEIGHT = 1000;
+int WIDTH = 800;
+int HEIGHT = 800;
 
 const int particleCount = 80000;
 

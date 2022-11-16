@@ -25,7 +25,7 @@ Particle::Particle() {
     this->m = 1;
 }
 
-void Particle::ApplyGravityForce(Vector2 pos, int mass, int sign) {
+void Particle::ApplyGravityForce(Vector2 pos, int mass, float sign) {
     float xdist = this->pos.x-pos.x;
     float ydist = this->pos.y-pos.y;
     float dist = Distance(xdist, ydist)/5;

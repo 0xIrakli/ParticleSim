@@ -12,7 +12,7 @@ public:
 
     Particle();
 
-    void ApplyGravityForce(Vector2 force, int mass, int sign);
+    void ApplyGravityForce(Vector2 force, int mass, float sign);
 
     void Update();
 
