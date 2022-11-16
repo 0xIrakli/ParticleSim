@@ -34,6 +34,12 @@ jobs:
     - name: Build
       run: cmake --build $GITHUB_ACTION_PATH/build --config Release --target ALL_BUILD -j 14
     
+    - name: Test1
+      run: dir
+    
+    - name: Test2
+      run: dir $GITHUB_ACTION_PATH
+    
     - name: Test
       run: dir $GITHUB_ACTION_PATH/build
       
