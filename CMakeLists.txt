@@ -28,15 +28,4 @@ add_executable(particlesim main.cpp particle.cpp particle.h)
 #set(raylib_VERBOSE 1)
 target_link_libraries(particlesim raylib)
 
-# Web Configurations
-if (${PLATFORM} STREQUAL "Web")
-    # Tell Emscripten to build an example.html file.
-    set_target_properties(particlesim PROPERTIES SUFFIX ".html")
-endif()
-
-# Checks if OSX and links appropriate frameworks (Only required on MacOS)
-if (APPLE)
-    target_link_libraries(particlesim "-framework IOKit")
-    target_link_libraries(particlesim "-framework Cocoa")
-    target_link_libraries(particlesim "-framework OpenGL")
 endif()
