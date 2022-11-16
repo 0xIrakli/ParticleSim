@@ -2,6 +2,8 @@
 
 class Particle{   
 public:
+    Vector2 original;
+
     Vector2 pos;
     Vector2 vel;
     Vector2 acc;

@@ -13,8 +13,9 @@ Particle::Particle(int x, int y) {
     this->pos = Vector2{(float)x, (float)y};
     this->vel = Vector2{0, 0};
     this->acc = Vector2{0, 0};
-
+    
     this->m = 2;
+    this->original = pos;
 }
 
 Particle::Particle() {
