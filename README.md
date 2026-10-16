@@ -1,5 +1,5 @@
 # ParticleSim
-Particle simulation in c++ using raylib. ***↓↓screenshots below↓↓***
+Particle simulation in c++ using raylib.
 
 ## Download
 Go to Actions tab. Click on the latest workflow run, download the build-artifacts, Extract and enjoy!
